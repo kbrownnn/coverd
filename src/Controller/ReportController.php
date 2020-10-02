@@ -12,7 +12,7 @@ use App\Entity\Orders\SupplyOrder;
 use App\Entity\Orders\SupplyOrderRepository;
 use App\Entity\Partner;
 use App\Entity\Product;
-use App\Entity\ProductRepository;
+use App\Repository\ProductRepository;
 use App\Entity\StorageLocation;
 use App\Entity\Supplier;
 use App\Reports\DistributionTotalsExcel;
